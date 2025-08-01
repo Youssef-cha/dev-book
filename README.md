@@ -18,4 +18,5 @@ Each member works on a separate Git branch, and intentionally triggers merge con
 
 ---------------
 #Rédiger l’introduction et les objectifs du projet
-
+---------------
+Pourquoi GitHub est important
